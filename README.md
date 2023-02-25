@@ -1,7 +1,7 @@
 # sdparm-GUI
 GUI wrapping sdparm
 
-I chose to use C# MAUI for this, since it is "compatible" with Linux, Windows, and MacOS.  We will see if this was a good idea later.
+I chose to use .NET Core for this, using https://avaloniaui.net/ for a UI since it is "compatible" with Linux, Windows, and MacOS.  We will see if this was a good idea later.
 
 ## Table 1. sdparm command line options
 Reproduced from https://sg.danny.cz/sg/sdparm.html here for reference.  All controls in the GUI come from this table. 
