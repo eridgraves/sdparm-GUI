@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sdparm-GUI", "sdparm-GUI.csproj", "{4AF76002-027B-4340-8139-A910A6D0A509}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AF76002-027B-4340-8139-A910A6D0A509}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF76002-027B-4340-8139-A910A6D0A509}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF76002-027B-4340-8139-A910A6D0A509}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF76002-027B-4340-8139-A910A6D0A509}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31902129-CFF3-4DE4-99B8-4D5E7A91DC4D}
+	EndGlobalSection
+EndGlobal
