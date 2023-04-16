@@ -3,6 +3,7 @@ GUI wrapping sdparm
 
 I chose to use .NET Core for this, using https://avaloniaui.net/ for a UI since it is "compatible" with Linux, Windows, and MacOS.  We will see if this was a good idea later.
 
+[comment]: <> (Apologies to you reading the following table in a terminal without a markdown formatter. The table below is easily viewable at the link below.)
 ## Table 1. sdparm command line options
 Reproduced from https://sg.danny.cz/sg/sdparm.html here for reference.  All controls in the GUI come from this table. 
 | long option format | short option format | description |
